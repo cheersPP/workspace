@@ -1,3 +1,5 @@
+## 实验环境 ： Ubuntu、CentOS
+
 # 使用 RVM 安装 Ruby
 
 RVM 能在系统中安装和管理多个 Ruby 版本。同时还能管理不同的 gem 集。支持 OS X、Linux 和其它类 UNIX 操作系统。
